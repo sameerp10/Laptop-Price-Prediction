@@ -6,7 +6,7 @@ import json
 import os
 
 st.title("💻 Laptop Price Predictor")
-
+st.caption("By - Om Ankesh")
 
 # Get current and parent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
